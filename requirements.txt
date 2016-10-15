@@ -1,0 +1,4 @@
+logging
+spyne
+requests
+operator
